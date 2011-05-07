@@ -14,7 +14,7 @@ pre {
 
 a { color: #BDBDBD; }
 a:visited { color: #2E2E2E; }
-a:hover { color: #fff; background-color:#000; }
+a:hover { color: #fff;  }
 
 div.field, div.actions {
   margin-bottom: 10px;
