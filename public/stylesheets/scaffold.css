@@ -2,8 +2,8 @@ body { background-color: sienna; color: #333; height: 100%; }
 
 body, p, ol, ul, td {
   font-family: helvetica;
-  font-size:   13px;
-  line-height: 18px;
+  font-size:   20px;
+  line-height: 30px;
 }
 
 pre {
